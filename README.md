@@ -1,7 +1,7 @@
 # Science & Technology Search Engine for Sustainable Development
 Build a searchable collection of science and technology knowledge useful to implement the Sustainable Development Goals.
 
-This project aims to build a curated collection of content relevant to sustainable development, keeping and categorizing content from high quality sources. Such as:
+This project aims to build a curated collection of content relevant to sustainable development, keeping and categorizing content from high quality sources. 
 
 ## Content resource  
  The collection of credictable content including websites belonging to this narrow list of owners:
