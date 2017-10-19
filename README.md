@@ -13,9 +13,8 @@ This project aims to build a curated collection of content relevant to sustainab
 ## Classification of content
 
 In addition to being able to find content based on keywords, it would be useful to be able to narrow down search results by the type of content found. These are some ideas for classification:
-
 - By type of media: documents, videos, images, etc.
-- By category of content: training material, laws or regulations, research papers, etc.
 - By language
-- By target audience: for children, for universtity students, for researchers, for policymakers, for practitioners, etc.
 - By topic: health, poverty, energy, climate, water, etc.
+
+
